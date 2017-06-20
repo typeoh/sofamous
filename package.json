@@ -1,0 +1,22 @@
+{
+  "name": "sofamous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typeoh/sofamous.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typeoh/sofamous/issues"
+  },
+  "homepage": "https://github.com/typeoh/sofamous#readme",
+  "dependencies": {
+    "pg": "^6.3.1"
+  }
+}
